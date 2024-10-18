@@ -1,0 +1,7 @@
+# Requisição (input)
+string input_string
+
+---
+
+# Resposta (output)
+sequence<sequence<string>> output_data
