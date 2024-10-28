@@ -4,4 +4,4 @@ string input_string
 ---
 
 # Resposta (output)
-sequence<sequence<string>> output_data
+string output_string

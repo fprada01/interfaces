@@ -10,6 +10,7 @@ find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
 # Interfaces:
+  "msg/StringList.msg"
   "srv/Ok.srv"
   "srv/ModulesService.srv"
 )
